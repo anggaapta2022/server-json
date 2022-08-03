@@ -3,14 +3,11 @@
     "date": "3-8-2022",
     "name_owner": "Yanto",
     "phone_owner": "0123456789",
-    "productAndStatus": [{
-        "product": "Tabungan",
-        "status": "Berminat"
-      },
-      {
-        "product": "Giro",
-        "status": "On Process"
-      }
-    ]
+    "product_one": "Tabungan",
+    "status_one": "Berminat",
+    "product_two": "Giro",
+    "status_two": "On Process",
+    "product_three": "",
+    "status_three": ""
   }]
 }
